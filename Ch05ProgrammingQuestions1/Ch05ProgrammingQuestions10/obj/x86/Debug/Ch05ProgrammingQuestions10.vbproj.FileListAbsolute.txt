@@ -1,0 +1,11 @@
+I:\VB\assignment-1\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\bin\Debug\Ch05ProgrammingQuestions10.exe
+I:\VB\assignment-1\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\bin\Debug\Ch05ProgrammingQuestions10.pdb
+I:\VB\assignment-1\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\bin\Debug\Ch05ProgrammingQuestions10.xml
+I:\VB\assignment-1\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\VB\assignment-1\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\obj\x86\Debug\Ch05ProgrammingQuestions10.Form1.resources
+I:\VB\assignment-1\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\obj\x86\Debug\Ch05ProgrammingQuestions10.Resources.resources
+I:\VB\assignment-1\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\VB\assignment-1\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\VB\assignment-1\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\obj\x86\Debug\Ch05ProgrammingQuestions10.exe
+I:\VB\assignment-1\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\obj\x86\Debug\Ch05ProgrammingQuestions10.xml
+I:\VB\assignment-1\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\Ch05ProgrammingQuestions10\obj\x86\Debug\Ch05ProgrammingQuestions10.pdb
